@@ -27,4 +27,7 @@
 2 今日完成情况：	
 
 3 问题、风险
+
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
 	 
